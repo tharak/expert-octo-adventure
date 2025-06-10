@@ -1,0 +1,21 @@
+Source/
+  JungleStealthHunt/
+    Characters/
+    AI/
+    Procedural/
+    Items/
+    UI/
+    Game/
+    JungleStealthHunt.Build.cs
+Content/
+  Blueprints/
+    Player/
+    Animals/
+    AI/
+    Items/
+    Crafting/
+    GameModes/
+  Materials/
+  Maps/
+  UI/
+  Procedural/
